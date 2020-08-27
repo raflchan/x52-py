@@ -4,8 +4,8 @@
 #include <pybind11/operators.h>
 #include <pybind11/functional.h>
 
-#include "stdafx.h"
-#include "x52root/x52/X52.h"
+#include "dependencies/x52/x52/stdafx.h"
+#include "dependencies/x52/x52/X52.h"
 
 namespace py = pybind11;
 
