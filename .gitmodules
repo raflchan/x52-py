@@ -1,0 +1,3 @@
+[submodule "x52-root"]
+	path = x52-root
+	url = https://github.com/raflchan/x52-root
