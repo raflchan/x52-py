@@ -1,5 +1,5 @@
 # X52
-![build](https://github.com/raflchan/x52/workflows/build/badge.svg)
+![build](https://github.com/raflchan/x52-py/workflows/build/badge.svg)
 
 A easy-to-use package to utilize the MFD on the Throttle of the X52 and X52 Pro, with features like displaying text, navigating pages of content and callbacks.
 
