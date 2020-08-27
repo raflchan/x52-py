@@ -29,5 +29,4 @@ jobs:
         pip install setuptools wheel twine
     - name: Build
       run: |
-        cd x52
         python setup.py sdist bdist_wheel
