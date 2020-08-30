@@ -35,7 +35,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name=package_name,
-    version="0.0.4",
+    version="0.0.5",
     author="rafl",
     # author_email="placeholder.author@example.com",
     description="A simple to use package to utilize the MFD on the Throttle of the X52 and X52 Pro.",
