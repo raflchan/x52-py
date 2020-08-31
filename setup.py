@@ -51,5 +51,6 @@ setuptools.setup(
     python_requires='>=3.6',
     ext_modules=[sfc_module],
     include_package_data=True,
-    package_data=package_data
+    package_data=package_data,
+    setup_requires=['pybind11>=2.5.0'],
 )
